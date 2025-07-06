@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#root{
+    background-color: grey;
+}
+.app{
+
+    background: radial-gradient(circle at bottom, rgb(139, 238, 228),rgb(203, 133, 53));
+    height: auto;
+    min-height: 100vh;
+}
